@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BottomSheetExample</string>
+    <string name="smalltext">HEading 1</string>
+    <string name="longtext">lots and lots of text lots and lots of text lots and lots of text lots and lots of text lots and lots of text lots and lots of text lots and lots of text lots and lots of text lots and lots of text lots and lots of text</string>
+</resources>
